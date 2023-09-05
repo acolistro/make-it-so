@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815602541688",
+    "project_id": "make-it-so-da856",
+    "storage_bucket": "make-it-so-da856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815602541688:android:3417e8ed945ef4d4f2798d",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815602541688-fj1siiuf28f6lt291bcptbug5h49t8k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFu61Hr9ysNx1BxhC4prfl_HqYiMfNFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815602541688-fj1siiuf28f6lt291bcptbug5h49t8k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
